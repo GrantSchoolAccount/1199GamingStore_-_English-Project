@@ -1,0 +1,27 @@
+<style> 
+
+@font-face { font-family: Bebas Neue; src: url("b.otf"); }
+h1 {
+	font-family: Bebas Neue
+	color: #D99A42;
+}
+
+@font-face { font-family: Bebas Neue; src: url("b.otf"); }
+h2 {
+	font-family: Bebas Neue
+	color: #D99A42;
+}
+		
+@font-face { font-family: Bebas Neue; src: url("b.otf"); }
+p {
+	font-family: Bebas Neue;
+	font-size: 24;
+}
+
+@font-face { font-family: Bebas Neue; src: url("b.otf"); }
+li {
+	font-family: Bebas Neue;
+	font-size: 20;
+}
+
+</style>
