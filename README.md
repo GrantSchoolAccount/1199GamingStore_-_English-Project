@@ -1,1 +1,1 @@
-# 1199GameStore
+# 1199GameStore + English Project
